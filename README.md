@@ -26,7 +26,7 @@ JuiceLineAR encourages user interaction with the virtual production line. Users 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/JuiceLineAR.git`
+1. Clone the repository: `git clone [https://github.com/your-username/JuiceLineAR.git](https://github.com/ahkang02/JuiceLineAR)`
 2. Open the project in Unity.
 3. Ensure you have the necessary dependencies installed (Vuforia, Blender).
 4. Build and run the application on your desired AR-compatible device.
