@@ -31,6 +31,11 @@ JuiceLineAR encourages user interaction with the virtual production line. Users 
 3. Ensure you have the necessary dependencies installed (Vuforia, Blender).
 4. Build and run the application on your desired AR-compatible device.
 
+## Collaboration
+
+Collaborators:
+- Tan Yan Pin ([FlippyNat](https://github.com/FlippyNat))
+
 ## Contribution Guidelines
 
 We welcome contributions to enhance JuiceLineAR. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
